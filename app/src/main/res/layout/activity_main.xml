@@ -35,5 +35,4 @@
         android:id="@+id/btnExplisit3"
         android:text="Kirim Data (Parcelable) ke Activity 4"/>
 
-
 </LinearLayout>
